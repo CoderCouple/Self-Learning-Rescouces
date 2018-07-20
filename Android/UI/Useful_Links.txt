@@ -14,3 +14,8 @@ Material Design View & best practices:
 --------------------------------------
 https://material.io/design/typography/#type-scale
 https://material.io/design/layout/understanding-layout.html#pixel-density
+
+Color:
+-----
+https://material.io/design/color/#color-theme-creation
+https://www.w3schools.com/colors/colors_hex.asp
