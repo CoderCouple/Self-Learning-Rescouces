@@ -9,3 +9,8 @@ https://developers.google.com/android/for-all/vocab-words/?hl=en
 UI View Cheatsheet:
 -------------------
 https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view
+
+Material Design View & best practices:
+--------------------------------------
+https://material.io/design/typography/#type-scale
+https://material.io/design/layout/understanding-layout.html#pixel-density
